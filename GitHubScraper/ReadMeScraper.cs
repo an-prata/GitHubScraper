@@ -1,9 +1,5 @@
 namespace GitHubScraper;
 
-/// <summary>
-/// Used to scrap Markdown files and can return either 
-/// equivelent HTML or the raw contents of the file.
-/// </summary>
 public static class ReadMeScraper
 {
 	/// <summary>
